@@ -2,7 +2,7 @@
 
 Сервис должен предоставлять REST API, позволяющее осуществлять бронирование рабочих мест в кабинетах. API должно предоставлять ресурсы для:
 1. Бронирования рабочих мест на заданный период времени 
-- https://django-booking-rest-api.herokuapp.com/api/v1/booking/create/
+- https://django-booking-rest-api.herokuapp.com/api/v1/booking/create/ (Authenticated only)
 2. Просмотра списка бронирований по id рабочего места;
 - https://django-booking-rest-api.herokuapp.com/api/v1/workplaces/free/ (Admin only)
 3. Авторизации пользователя любым методом (Basic Auth годится);
