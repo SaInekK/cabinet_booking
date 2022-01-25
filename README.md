@@ -1,5 +1,6 @@
 # cabinet_booking
 
+admin:12345
 Сервис должен предоставлять REST API, позволяющее осуществлять бронирование рабочих мест в кабинетах. API должно предоставлять ресурсы для:
 1. Бронирования рабочих мест на заданный период времени 
 - https://django-booking-rest-api.herokuapp.com/api/v1/booking/create/ (Authenticated only)
